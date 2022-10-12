@@ -1,5 +1,5 @@
 # To-Do-List
-Creating a To Do List by using JavaScript and HTML
+Description: Creating a To Do List by using JavaScript and HTML
 
 Tutor: https://supersimple.dev
 
